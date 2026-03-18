@@ -1,30 +1,19 @@
 # pyhton-learning-journal
 My daily Python learning notes and exercises
-📚 Topics I Learned
-🟢 Basics
+This repository contains my Python learning process and practice codes.
 
-Variables
+Topics
 
-Data Types
-
-Input / Output
-
-🟡 Control Flow
+Variables, Data Types
 
 If-Else Statements
 
 Loops (for, while)
 
-🔵 Functions
+Functions
 
-Defining functions
+Lists, Dictionaries, Sets
 
-Parameters
+Goal
 
-🟣 Data Structures
-
-Lists
-
-Dictionaries
-
-Sets
+To improve my Python skills by practicing regularly.
